@@ -12,13 +12,20 @@
 - [x] Editar o arquivo "README.md" no repositório
 - [x] Formatar o documento utilizando Markdown
 
-## Tecnologias Utilizadas:
+## :computer: Tecnologias Utilizadas: :wrench:
 - **GitHub**: Para versionamento e colaboração no código
 - **GitHub.dev**: Editor de código integrado no navegador
 - **Markdown**: Linguagem de marcação para formatação de texto no GitHub
 
-## Exemplo de Comandos Úteis:
+## :pencil2: Exemplo de Comandos Úteis:
 
 ### Clonar o Repositório:
 ```bash
 git clone https://github.com/usuario/repositorio.git
+```
+
+## :blue_book: Dicas de Links Úteis:
+
+- [Guia de Início Rápido com Markdown](https://www.markdownguide.org/getting-started/)
+- [Documentação Oficial do GitHub - Início](https://docs.github.com/pt/get-started/start-your-journey)
+- [Emojis no Markdown](https://github.com/markdown-templates/markdown-emojis)
